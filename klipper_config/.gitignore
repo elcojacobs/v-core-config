@@ -1,0 +1,6 @@
+printer-20*.cfg
+.moonraker.conf.bkp
+config
+input_shaper/
+firmware_binaries/
+.theme/
